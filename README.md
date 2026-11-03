@@ -19,8 +19,8 @@
 
 </div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sav1kx-181717?style=for-the-badge&logo=github)](https://github.com/mernich-ai)
-[![Profile Views](https://komarev.com/ghpvc/?username=Sav1kx&style=for-the-badge&color=8A2BE2)](https://github.com/mernich-ai)
+[![GitHub](https://img.shields.io/badge/GitHub-mernich-ai-181717?style=for-the-badge&logo=github)](https://github.com/mernich-ai)
+[![Profile Views](https://komarev.com/ghpvc/?username=mernich=/-ai&style=for-the-badge&color=8A2BE2)](https://github.com/mernich-ai)
 
 </div>
 
@@ -29,7 +29,7 @@
 ## 👾  About Me
 
 ```yaml
-name: Sav1kx
+name: Mernich-ai
 role: Full Stack Developer
 location: Russia 🇷🇺 
 interests:
@@ -60,31 +60,6 @@ interests:
 
 </div>
 
----
-
-## 📊  GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sav1kx&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sav1kx&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Sav1kx&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=FF00FF&currStreakLabel=A855F7" />
-
-</div>
-
----
-
-## 🐍  Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sav1kx/Sav1kx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
 
 ---
 
@@ -92,8 +67,8 @@ interests:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Sav1kx)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sav1kx)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mernich-ai)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mernich8)
 
 </div>
 
