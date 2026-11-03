@@ -17,7 +17,7 @@
 
 </div>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mernich=/-ai&style=for-the-badge&color=8A2BE2)](https://github.com/mernich-ai)
+[![Profile Views](https://komarev.com/ghpvc/?username=mernich-ai&style=for-the-badge&color=8A2BE2)](https://github.com/mernich-ai)
 
 </div>
 
