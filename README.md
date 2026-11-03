@@ -19,7 +19,6 @@
 
 </div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-mernich-ai-181717?style=for-the-badge&logo=github)](https://github.com/mernich-ai)
 [![Profile Views](https://komarev.com/ghpvc/?username=mernich=/-ai&style=for-the-badge&color=8A2BE2)](https://github.com/mernich-ai)
 
 </div>
